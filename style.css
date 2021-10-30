@@ -1,0 +1,27 @@
+.jumbotron {
+	color: #0d176d;
+	font-family: Arial, Helvetica, sans-serif;
+    padding-left: 80px;
+
+}
+
+#metaPanel {
+	font-size: smaller;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #2d17a5;
+}
+
+#metaPanel .panel-header {
+    text-align: center;
+}
+
+#selDataset {
+	padding: 20px;
+    color: black;
+}
+
+#samplePanel {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: #1f1da8;
+}
